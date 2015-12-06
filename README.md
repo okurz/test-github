@@ -1,1 +1,2 @@
 # test-github
+Climate](https://codeclimate.com/github/okurz/test-github/badges/gpa.svg)](https://codeclimate.com/github/okurz/test-github) [![Test Coverage](https://codeclimate.com/github/okurz/test-github/badges/coverage.svg)](https://codeclimate.com/github/okurz/test-github/coverage) [![Issue Count](https://codeclimate.com/github/okurz/test-github/badges/issue_count.svg)](https://codeclimate.com/github/okurz/test-github)
