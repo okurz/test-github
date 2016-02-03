@@ -1,0 +1,11 @@
+ - automatically generate github pages from content like static content
+   generator AND publish using travis:
+  - http://jekyllrb.com/docs/continuous-integration/
+  - https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
+  - http://stackoverflow.com/questions/15214762/how-can-i-sync-documentation-with-github-pages
+  - http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/
+  - http://brettterpstra.com/2012/09/26/github-tip-easily-sync-your-master-to-github-pages/
+  - http://benlimmer.com/2013/12/26/automatically-publish-javadoc-to-gh-pages-with-travis-ci/
+  - https://github.com/ReadyTalk/swt-bling/blob/master/.utility/push-javadoc-to-gh-pages.sh
+  - https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example/issues/3
+  - https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example
